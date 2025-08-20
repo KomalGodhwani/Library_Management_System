@@ -25,3 +25,5 @@ PUT /api/books/{id}/borrow → borrow a book
 PUT /api/books/{id}/return → return a book
 
 DELETE /api/books/{id} → delete a book
+
+With this project, I was able to implement all the required functionalities of a Library Management System as RESTful APIs, along with monitoring, logging, and environment-specific configurations.
