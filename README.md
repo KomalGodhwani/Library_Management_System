@@ -26,4 +26,10 @@ PUT /api/books/{id}/return → return a book
 
 DELETE /api/books/{id} → delete a book
 
+Testing:
+
+All APIs are tested using Postman.
+
+A Postman collection and screenshots are included in the screenshots/ folder.
+
 With this project, I was able to implement all the required functionalities of a Library Management System as RESTful APIs, along with monitoring, logging, and environment-specific configurations.
